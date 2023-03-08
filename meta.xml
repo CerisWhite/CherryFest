@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>CherryFest</name>
+  <coder>Ceris</coder>
+  <version>1.0.0</version>
+  <release_date>2022-08-14</release_date>
+  <short_description>Cherryfest Splatfest Installer</short_description>
+  <long_description>Ceris' Automatic Splatfest Installer
+ 
+This REQUIRES Mocha CFW to be active before launching. Using Haxchi sigpatches will cause your device to freeze. This app will install the latest splatfest from my website, splatfest.cherrymint.live!
+
+I am not responsible for any damage that may occur, though none should.</long_description>
+<category>tool</category>
+<url></url>
+</app>
